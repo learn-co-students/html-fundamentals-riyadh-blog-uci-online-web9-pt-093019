@@ -47,8 +47,8 @@ IMAGE 3 FILE
 `camels-in-truck.jpg`
 
 IMAGE 3 ALT TEXT
-
-`The roads of Riyadh`
+'
+'Camels in truck'
 
 SMALLER SUB HEAD
 
